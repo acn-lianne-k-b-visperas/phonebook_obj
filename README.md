@@ -252,4 +252,8 @@ class Phonebook(object):
             self.quitPhonebook()
 ```
 
-##Screenshots (identical for both versions)
+##Screenshots
+
+![Phonebook1](/images/phonebook1.png)
+![Phonebook1](/images/phonebook2.png)
+![Phonebook1](/images/phonebook3.png)
